@@ -1,0 +1,21 @@
+.menu li {
+    margin-right: 12px;
+    list-style-type: none;
+    font-weight: bold;
+}
+ul.menu {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.frog {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.cfooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
